@@ -1,0 +1,4 @@
+simple bash scripts to see your terminal colors: 4bit palette, truecolor, and a
+permutation script
+
+everything assumes that ANSI escape sequences work
